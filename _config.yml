@@ -9,7 +9,7 @@ name:fruitfulife
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar:https://avatars1.githubusercontent.com/u/15230845?v=3&s=40
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:rhee7383@gmail.com
   facebook:
   flickr:rhee.j
-  github:fruitfulife.github.io
+  github:fruitfulife/fruitfulife.github.io
   instagram:fruitfulife
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: fruitfulife
+  twitter:@fruitfulife
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: rhee7383
   googleplus: # anything in your profile username that comes after plus.google.com/
