@@ -14,4 +14,4 @@ permalink: /about/
 
 ### Contact me
 
-[rhee7383l@gmail.com](mailto:email@domain.com)
+[mail to Fruitfulife](mailto:rhee7383@gmail.com)
